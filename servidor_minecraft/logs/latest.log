@@ -1,29 +1,27 @@
-[02:43:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:43:26] [ServerMain/INFO]: No existing world data, creating new world
-[02:43:27] [ServerMain/INFO]: Loaded 1407 recipes
-[02:43:27] [ServerMain/INFO]: Loaded 1520 advancements
-[02:43:27] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[02:43:27] [Server thread/INFO]: Loading properties
-[02:43:27] [Server thread/INFO]: Default game type: SURVIVAL
-[02:43:27] [Server thread/INFO]: Generating keypair
-[02:43:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:43:27] [Server thread/INFO]: Using epoll channel type
-[02:43:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:43:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:43:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:43:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:43:27] [Server thread/INFO]: Preparing level "world"
-[02:43:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:43:35] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:43:36] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:43:36] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:43:37] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:43:37] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[02:43:38] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[02:43:38] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[02:43:39] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[02:43:39] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[02:43:40] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[02:43:40] [Server thread/INFO]: Time elapsed: 4879 ms
-[02:43:40] [Server thread/INFO]: Done (12.702s)! For help, type "help"
-[02:44:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:47:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:47:40] [ServerMain/INFO]: Loaded 1407 recipes
+[03:47:40] [ServerMain/INFO]: Loaded 1520 advancements
+[03:47:40] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[03:47:40] [Server thread/INFO]: Loading properties
+[03:47:40] [Server thread/INFO]: Default game type: SURVIVAL
+[03:47:40] [Server thread/INFO]: Generating keypair
+[03:47:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:47:40] [Server thread/INFO]: Using epoll channel type
+[03:47:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:47:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:47:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:47:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:47:40] [Server thread/INFO]: Preparing level "world"
+[03:47:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:47:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:47:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:47:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:47:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:47:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:47:43] [Server thread/INFO]: Time elapsed: 2503 ms
+[03:47:43] [Server thread/INFO]: Done (2.754s)! For help, type "help"
+[03:47:58] [Server thread/INFO]: N0IZEY[/127.176.252.193:40087] logged in with entity id 19 at (-25.90465948915466, 117.0, 16.246004879940358)
+[03:47:58] [Server thread/INFO]: N0IZEY joined the game
+[03:48:08] [Server thread/INFO]: N0IZEY lost connection: Disconnected
+[03:48:08] [Server thread/INFO]: N0IZEY left the game
+[03:49:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
